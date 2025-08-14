@@ -15,9 +15,9 @@ It uses **Python** with **Pandas**, **Matplotlib**, and **Seaborn** to perform d
 Below are some output images generated from the analysis:
 
 ### Player Overall Rating Distribution
-(Age and Their Frequencies.png)
+![Age and Players](AgeandTheirFrequencies.png)
 
 ### Top Players by Potential
-(scatter plot for Potential and Overall Rating.png)
+![scatter for Potential and overall rating](scatterplotforPotentialandOverallRating.png)
 ---
 💡 *Feel free to fork this repo and try your own analysis with the FIFA dataset!*
